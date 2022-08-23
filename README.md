@@ -1,4 +1,4 @@
-# winnipegcriticalmass
+# criticalmass wpg
 
 This is the repo for winnipegcriticalmass.com. 
 
