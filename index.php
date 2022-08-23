@@ -35,18 +35,21 @@ $nextCriticalMass = date('F jS', nextLastFriday());
 <body>
     <h1>Critical Mass Winnipeg FAQ</h1>
     <h2>When</h2>
-    <p><strong><?php echo $nextCriticalMass ?>@5pm</strong> and every last Friday!</p>
+    <p><strong><?php echo $nextCriticalMass ?> @ 5pm</strong> (leave at 5:30) and every last Friday of the month!</p>
     <h2>Where</h2>
-    <p>Central Park (<a href="https://goo.gl/maps/N1CX1QmnaE5Hjej47" target="_blank">map</a>)</p>
+    <p>Central Park (<a href="https://goo.gl/maps/FwptR1iYbjtSSNQB7" target="_blank">map</a>)</p>
     <h2>What</h2>
     <p>
         Critical Mass (CM) is a super fun leaderless
         group bike ride to celebrate human-powered
         transportation. We ride slow and together as
         a group and claim our right to the road!<br><br>
-        Hundreds of cities around the world participate every month!<br><br>
-        <a href="https://en.wikipedia.org/wiki/Critical_Mass_(cycling)">More info on Wikipedia</a>
+        Hundreds of cities around the world participate every month!
     </p>
+    <ul>
+        <li><a href="https://en.wikipedia.org/wiki/Critical_Mass_(cycling)">More info on Wikipedia</a></li>
+        <li><a href="https://web.archive.org/web/20071018021525/http://criticalmasswinnipeg.net/" target="_blank">criticalmasswinnipeg.net circa 2007</a></li>
+    </ul>
     <h2>Who</h2>
     <p>
         Critical mass is an organized coincidence with no leadership or membership.
