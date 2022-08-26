@@ -1,9 +1,9 @@
 <?php
 function nextLastFriday()
 {
-    $lastFridayThisMonth = strtotime('last friday of this month');
+    $lastFridayThisMonth = strtotime('last friday of this month 7pm');
 
-    return $lastFridayThisMonth > time() ? $lastFridayThisMonth : strtotime('last friday of next month');
+    return $lastFridayThisMonth > time() ? $lastFridayThisMonth : strtotime('last friday of next month 7pm');
 
 }
 $nextCriticalMass = date('F jS', nextLastFriday());
