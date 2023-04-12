@@ -55,7 +55,7 @@ $nextCriticalMass = date('F jS', nextLastFriday());
         Critical mass is an organized coincidence with no leadership or membership.
     </p>
     <ul>
-        <li>Hang out with like-minded individual: <a href="https://discord.gg/7mswZvMA" target="_blank">Winnipeg Cycling Community discord</a>!</li>
+        <li>Hang out with like-minded individual: <a href="https://discord.gg/gQbcrHAr8A" target="_blank">Winnipeg Cycling Community discord</a>!</li>
         <li>Follow <a href="https://instagram.com/criticalmass.wpg" target="_blank">@criticalmass.wpg</a> on IG.</li>
         <li>Improve this site on <a href="https://github.com/ohryan/criticalmasswpg" target="_blank">Github</a>.</li>
     </ul>
